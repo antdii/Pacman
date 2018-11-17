@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1542404752 source:c:\users\ant_d\onedrive\diversos1\sistemas de informação\laboratório de programação 2\pacman v10\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

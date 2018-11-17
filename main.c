@@ -26,7 +26,7 @@ int main()
     /*função obstáculo aqui*/
     printf("\n\n");
 
-    getchar();
+    //getchar();
     return 0;
 }
 
